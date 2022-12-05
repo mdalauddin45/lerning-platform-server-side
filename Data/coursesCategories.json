@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "name":"Engineering Physiscs"
+  },
+  {
+    "id": "02",
+    "name":"Engineering Mathematics"
+  },
+  {
+    "id": "03",
+    "name":"Computer Fundamentals"
+  },
+  {
+    "id": "04",
+    "name":"Programming Language"
+  },
+  {
+    "id": "05",
+    "name":"Accounting Principles"
+  },
+  {
+    "id": "06",
+    "name":"Business Statistics"
+  }
+]
